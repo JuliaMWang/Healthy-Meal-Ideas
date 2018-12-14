@@ -2,5 +2,6 @@
     "name": "Healthy Meal Ideas",
     "version": "1.0",
     "description": "Google Chrome extension providing healthy meal ideas and sample recipes.",
+    "author": "Julia Wang",
     "manifest_version": 2
 }
