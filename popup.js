@@ -24,7 +24,8 @@ function find_quote() {
         "Strawberry Chocolate Almond Acai Bowls: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/mrGcyW",
         "Italian Quinoa Salad with White Beans: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/HVK2AP",
         "One-pot Zucchini Noodle Miso Soup: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/DgNq69",
-        "Tuna Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/795ejM"
+        "Tuna Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/795ejM",
+        "Tuna, Avocado, and Goat Cheese Panini, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/r49dSw"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
