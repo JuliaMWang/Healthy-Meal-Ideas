@@ -11,6 +11,7 @@ function find_quote() {
         "Honey Garlic Shrimp and Broccoli: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/zeaM1e",
         "Roasted Chicken and Veggies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/wVZikQ",
         "White Chicken Chili: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/2mFpqC",
+        "Spicy Asian Chicken Salad (Paleo Friendly): Level: Easy, Total Time: 5 min, Recipe: https://goo.gl/EhcmEi",
         "Quinoa and Korean Beef Bowl: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/WB4aw9",
         "Seared Ahi Tuna Steaks: Level: Easy, Total Time: 6 min, Recipe: https://goo.gl/1aXx5e",
         "Poached Egg and Avocado Salad: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/xv4Wqy",
