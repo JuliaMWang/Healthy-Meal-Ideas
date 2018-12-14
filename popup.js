@@ -32,7 +32,8 @@ function find_quote() {
         "Chicken Tortilla Lettuce Wraps, Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/rjs1X7",
         "Sweet Potato, Corn, and Black Bean Enchiladas, Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/vRFaVu",
         "Creamy Vegan Corn and Red Pepper Blender Soup, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/3AgjLk",
-        "Margherita Flatbread Pizza, Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/9NGjbL"
+        "Margherita Flatbread Pizza, Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/9NGjbL",
+        "Chicken Hummus Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/bPMyY8"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
