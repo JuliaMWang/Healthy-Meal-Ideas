@@ -39,7 +39,8 @@ function find_quote() {
         "Sun Dried Tomato and Basil Pinwheels: Total Time: 20 min, Recipe: https://goo.gl/PgRy4U",
         "Avocado Caprese Chicken Salad: Total Time: 15 min, Recipe: https://goo.gl/BzdXWj",
         "Spinach Lasagna, Total Time: 1 hour, Recipe: https://goo.gl/7e5Rpk",
-        "Spinach Tomato Tortellini Soup, Total Time: 20 min, Recipe: https://goo.gl/Ro9dWs"
+        "Spinach Tomato Tortellini Soup, Total Time: 20 min, Recipe: https://goo.gl/Ro9dWs",
+        "Broccoli Slaw Fish Tacos, Total Time: 10 min, Recipe: https://goo.gl/JSoEDg"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
