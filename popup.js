@@ -9,7 +9,8 @@ function find_quote() {
         "Cauliflower Fried Rice: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/FKijQ4",
         "Honey Garlic Shrimp and Broccoli: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/zeaM1e",
         "Roasted Chicken and Veggies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/wVZikQ",
-        "White Chicken Chili: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/2mFpqC"
+        "White Chicken Chili: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/2mFpqC",
+        "Quinoa and Korean Beef Bowl: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/WB4aw9"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
