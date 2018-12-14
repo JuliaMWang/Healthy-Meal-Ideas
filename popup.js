@@ -20,7 +20,7 @@ function find_quote() {
         "Egg Breakfast Wrap with Bacon, Avocado, and Tomato: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/xj42cd",
         "Banana Berry Smoothies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/4pYwNE",
         "Spicy Sun Dried Tomato Feta Omelette: Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/Sqkt7N",
-        "Classic Meat and Cheese Lasagna: Level: Medium, Total Time: several hours, Recipe: https://goo.gl/7Sx8RV",
+        "Classic Meat and Cheese Lasagna: Level: Easy, Total Time: several hours, Recipe: https://goo.gl/7Sx8RV",
         "Chicken Stir Fry with Rice Noodles: Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/4nWCba",
         "Chinese-style Hot Pot: Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/G9295w",
         "Strawberry Chocolate Almond Acai Bowls: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/mrGcyW",
@@ -37,7 +37,8 @@ function find_quote() {
         "Margherita Flatbread Pizza, Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/9NGjbL",
         "Chicken Hummus Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/bPMyY8",
         "Sun Dried Tomato and Basil Pinwheels: Total Time: 20 min, Recipe: https://goo.gl/PgRy4U",
-        "Avocado Caprese Chicken Salad: Total Time: 15 min, Recipe: https://goo.gl/BzdXWj"
+        "Avocado Caprese Chicken Salad: Total Time: 15 min, Recipe: https://goo.gl/BzdXWj",
+        "Spinach Lasagna, Total Time: 1 hour, Recipe: https://goo.gl/7e5Rpk"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
