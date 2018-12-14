@@ -38,7 +38,8 @@ function find_quote() {
         "Chicken Hummus Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/bPMyY8",
         "Sun Dried Tomato and Basil Pinwheels: Total Time: 20 min, Recipe: https://goo.gl/PgRy4U",
         "Avocado Caprese Chicken Salad: Total Time: 15 min, Recipe: https://goo.gl/BzdXWj",
-        "Spinach Lasagna, Total Time: 1 hour, Recipe: https://goo.gl/7e5Rpk"
+        "Spinach Lasagna, Total Time: 1 hour, Recipe: https://goo.gl/7e5Rpk",
+        "Spinach Tomato Tortellini Soup, Total Time: 20 min, Recipe: https://goo.gl/Ro9dWs"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
