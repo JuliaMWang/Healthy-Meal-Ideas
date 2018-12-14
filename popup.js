@@ -27,7 +27,8 @@ function find_quote() {
         "Tuna Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/795ejM",
         "Tuna, Avocado, and Goat Cheese Panini, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/r49dSw",
         "Open-faced Avocado BLT Sandwich, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/ZHLDRQ",
-        "Sun Dried Tomato Spinach Grilled Cheese Sandwich, Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/k1WRMF"
+        "Sun Dried Tomato Spinach Grilled Cheese Sandwich, Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/k1WRMF",
+        "Vegan BLT Sandwich, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/N2HdRj"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
