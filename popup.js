@@ -18,7 +18,9 @@ function find_quote() {
         "Egg Breakfast Wrap with Bacon, Avocado, and Tomato: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/xj42cd",
         "Banana Berry Smoothies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/4pYwNE",
         "Spicy Sun Dried Tomato Feta Omelette: Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/Sqkt7N",
-        "Classic Meat and Cheese Lasagna: Level: Medium, Total Time: several hours, Recipe: https://goo.gl/7Sx8RV"
+        "Classic Meat and Cheese Lasagna: Level: Medium, Total Time: several hours, Recipe: https://goo.gl/7Sx8RV",
+        "Chicken Stir Fry with Rice Noodles: Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/4nWCba",
+        "Chinese-style Hot Pot: Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/G9295w"       
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
