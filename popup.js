@@ -25,7 +25,8 @@ function find_quote() {
         "Italian Quinoa Salad with White Beans: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/HVK2AP",
         "One-pot Zucchini Noodle Miso Soup: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/DgNq69",
         "Tuna Wrap, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/795ejM",
-        "Tuna, Avocado, and Goat Cheese Panini, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/r49dSw"
+        "Tuna, Avocado, and Goat Cheese Panini, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/r49dSw",
+        "Open-faced Avocado BLT Sandwich, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/ZHLDRQ"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
