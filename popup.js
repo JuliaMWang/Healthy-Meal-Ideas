@@ -14,7 +14,8 @@ function find_quote() {
         "Seared Ahi Tuna Steaks: Level: Easy, Total Time: 6 min, Recipe: https://goo.gl/1aXx5e",
         "Poached Egg and Avocado Salad: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/xv4Wqy",
         "Breakfast Microwave Muffin: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/WPwFNt",
-        "Breakfast Peanut Butter Banana Toast: Level: Easy, Total Time: 5 min, Recipe: https://goo.gl/WZzJNX"
+        "Breakfast Peanut Butter Banana Toast: Level: Easy, Total Time: 5 min, Recipe: https://goo.gl/WZzJNX",
+        "Egg Breakfast Wrap with Bacon, Avocado, and Tomato: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/xj42cd"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
