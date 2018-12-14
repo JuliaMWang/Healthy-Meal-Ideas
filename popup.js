@@ -13,7 +13,8 @@ function find_quote() {
         "Quinoa and Korean Beef Bowl: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/WB4aw9",
         "Seared Ahi Tuna Steaks: Level: Easy, Total Time: 6 min, Recipe: https://goo.gl/1aXx5e",
         "Poached Egg and Avocado Salad: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/xv4Wqy",
-        "Breakfast Microwave Muffin: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/WPwFNt"
+        "Breakfast Microwave Muffin: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/WPwFNt",
+        "Breakfast Peanut Butter Banana Toast: Level: Easy, Total Time: 5 min, Recipe: https://goo.gl/WZzJNX"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
