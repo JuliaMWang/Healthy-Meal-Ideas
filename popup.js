@@ -30,7 +30,8 @@ function find_quote() {
         "Sun Dried Tomato Spinach Grilled Cheese Sandwich, Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/k1WRMF",
         "Vegan BLT Sandwich, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/N2HdRj",
         "Chicken Tortilla Lettuce Wraps, Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/rjs1X7",
-        "Sweet Potato, Corn, and Black Bean Enchiladas, Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/vRFaVu"
+        "Sweet Potato, Corn, and Black Bean Enchiladas, Level: Easy, Total Time: 30 min, Recipe: https://goo.gl/vRFaVu",
+        "Creamy Vegan Corn and Red Pepper Blender Soup, Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/3AgjLk"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
