@@ -16,7 +16,8 @@ function find_quote() {
         "Breakfast Microwave Muffin: Level: Easy, Total Time: 10 min, Recipe: https://goo.gl/WPwFNt",
         "Breakfast Peanut Butter Banana Toast: Level: Easy, Total Time: 5 min, Recipe: https://goo.gl/WZzJNX",
         "Egg Breakfast Wrap with Bacon, Avocado, and Tomato: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/xj42cd",
-        "Banana Berry Smoothies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/4pYwNE"
+        "Banana Berry Smoothies: Level: Easy, Total Time: 15 min, Recipe: https://goo.gl/4pYwNE",
+        "Spicy Sun Dried Tomato Feta Omelette: Level: Easy, Total Time: 20 min, Recipe: https://goo.gl/Sqkt7N"
     ];
 
     var random_element = message[Math.floor(Math.random() * message.length)];
