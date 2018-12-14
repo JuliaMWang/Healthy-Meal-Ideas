@@ -1,0 +1,6 @@
+{
+    "name": "Healthy Meal Ideas",
+    "version": "1.0",
+    "description": "Google Chrome extension providing healthy meal ideas and sample recipes.",
+    "manifest_version": 2
+}
